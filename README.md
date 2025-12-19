@@ -40,15 +40,15 @@
 * `P03_dataclean.py`: 文字資料清理 (去除雜訊、標點符號處理)。
 * `P03-01sample.py`: 資料採樣 (Sampling)。
 
-### 2. 特徵提取 (Feature Extraction)
+### 2. 特徵提取
 * `P04_TF-IDF.py`: 計算評論文本的 TF-IDF 特徵值。
 * `P05-Sentence-BERT.py`: 使用預訓練模型 (SBERT) 進行語句向量化。
 
-### 3. 模型最佳化 (Model Optimization)
+### 3. 模型最佳化
 * `P04-1_elbowMethod.py`: 使用手肘法 (Elbow Method) 尋找最佳分群數 $K$。
 * `P04-2-SilhouetteScoreP.py`: 使用側影係數 (Silhouette Score) 評估分群效果。
 
-### 4. 分析與洞察 (Analysis & Insights)
+### 4. 分析與洞察
 * `P05-1ClusterFeatures.py`: 分析各群集的關鍵字特徵。
 * `P05-2Sentence.py`: 提取各群集的代表性語句。
 * `P06-emotion.py`: 進行情緒分析，將群集分類為激勵或保健因子。
